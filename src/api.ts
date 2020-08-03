@@ -4,6 +4,7 @@ interface Recipe {
 	name: string
 	yields: string
 	updated: string
+	image: string
 }
 
 interface Ingredient {
